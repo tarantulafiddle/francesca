@@ -3,8 +3,8 @@ title: Tarantula Fiddle
 subtitle: Francesca Caruso
 email: francesca.amadee@gmail.com
 description: The music homepage of Francesca Amadée Caruso
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/francesca" # the subpath of your site, e.g. /blog
+url: https://robertylewis.com # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
