@@ -1,0 +1,9 @@
+---
+layout: post
+title: Lessons
+description: Lorem ipsum dolor est
+image: assets/images/fiddle.jpg
+nav-menu: true
+---
+
+I give lessons in Providence, RI and surrounding areas. Here's some text about what I do. You can email me or call me or whatever you want.
