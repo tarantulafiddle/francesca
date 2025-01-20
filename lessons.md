@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons
-description: Lorem ipsum dolor est
+description: I teach aspiring fiddlers and violinists of all ages and experience levels
 image: assets/images/fiddle.jpg
 nav-menu: true
 ---

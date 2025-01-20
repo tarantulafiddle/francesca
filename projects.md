@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Active Projects
-description: Lorem ipsum dolor est
+description: All the bands I play in
 image: assets/images/ring-cropped.png
 nav-menu: true
 ---

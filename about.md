@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Lorem ipsum dolor est
+description: My musical background
 image: assets/images/francesca-closeup.jpg
 nav-menu: true
 ---
