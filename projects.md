@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recent Projects
-description: The projects I've played in recently
+# description: The projects I've played in recently
 image: assets/images/ring-cropped.png
 nav-menu: true
 ---

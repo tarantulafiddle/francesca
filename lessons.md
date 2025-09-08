@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons
-description: I teach aspiring fiddlers and violinists of all ages and experience levels
+# description: I teach aspiring fiddlers and violinists of all ages and experience levels
 image: assets/images/lessons-banner.png
 nav-menu: true
 ---
