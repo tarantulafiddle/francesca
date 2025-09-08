@@ -1,35 +1,21 @@
 ---
 layout: post
-title: Active Projects
-description: All the bands I play in
+title: Recent Projects
+description: The projects I've played in recently
 image: assets/images/ring-cropped.png
 nav-menu: true
 ---
 
-I'm in lots of really cool bands!
+* [The Infinity Ring](https://theinfinityring.bandcamp.com/)
+* [Dakou Dakou](https://dakoudakou.bandcamp.com/album/)
+* PILE - [Sunshine and Balance Beams](https://pile.bandcamp.com/album/sunshine-and-balance-beams)
+* [Vudu Sister](https://vudusister.bandcamp.com/) (touring fiddler only!)
+* Spit Callus - [Spangler](https://platzmusic.bandcamp.com/track/spangler-by-spit-callus)
+* Dougie Poole - [Freelancers Blues](https://dougiepoole.bandcamp.com/album/the-freelancers-blues) 
+* Mike Etten -  [Love Wash](https://mike-etten.bandcamp.com/album/love-wash)
+* Paul Collins (Beirut) - [Discreet Music (Eno)](https://www.cimiottirecs.com/shop/guess-work-performs-discreet-music-cim-014)
+* Eve Essex - [The Fabulous Truth](https://eveessex.bandcamp.com/album/the-fabulous-truth)
+* Providence Research Ensemble - [self titled](https://infrequentseams.bandcamp.com/album/the-music-of-j-p-a-falzone)
+* Child of the Church - [Cultured review](https://www.culturedmag.com/article/2023/05/26/a-johann-sebastian-bach-cantata-gets-a-modern-makeover-in-manhattan/#gallery=698&img=10)
 
-<h2 id="content">Bands I play in</h2>
-<p>Fiddle is my main instrument but I play it in all kinds of styles.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>The Infinity Ring</h3>
-		<p>We're dark and cool and sound sort of like Swans and nobody can say what genre we are.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Dakou Dakou</h3>
-		<p>Providence's favorite new group, add some more tet here.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Spit Callus</h3>
-		<p>What to write about the jazz guys?</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Somebody else</h3>
-		<p>I'm just doing this to contrast the 2-column and 3-column options...</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>And one more just for fun</h3>
-		<p>Tired of making up text.</p>
-	</div>
-</div>
+
