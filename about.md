@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 # description: My musical background
-image: assets/images/francesca-closeup.jpg
+image: assets/images/francesca-middle-distance.jpg
 nav-menu: true
 ---
 
