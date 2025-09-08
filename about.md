@@ -11,3 +11,5 @@ I’m a classically trained fiddle player. After studying classical violin perfo
 Tarantula Fiddle is a nod to Italian folklore and the Tarantella, a fiddler’s cure for snakebite. This project aims to incorporate fiddle, dance, improvisation and deep listening into a holistic music practice. In the words of Albert Ayler, “Music is the healing force of the universe.”
 
 [Here are some of the projects I've been involved with recently!](projects.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLDf1j-V2z4?si=TmunBE8EJsEfHjae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
