@@ -27,6 +27,9 @@ While living in NYC I played bass, fiddle and sang in the country music backing 
 	<div class="6u 12u$(small)">
 		<img src="/assets/images/dougie.jpg">
 	</div>
+	<div class="6u 12u$(small)">
+		<img src="/assets/images/classical.jpg">
+	</div>
 </div>
 
 Tarantula Fiddle is a nod to Italian folklore and the Tarantella, a fiddler’s cure for snakebite. This project aims to incorporate fiddle, dance, improvisation and deep listening into a holistic music practice. In the words of Albert Ayler, “Music is the healing force of the universe.”
